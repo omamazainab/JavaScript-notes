@@ -1,0 +1,1 @@
+My notes from YDKJS by Kyle Simpson.
