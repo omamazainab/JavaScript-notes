@@ -1,2 +1,2 @@
-language = "bash"
-run = ""
+language = "javascript"
+run = "node ./Objects/Immutablity"
